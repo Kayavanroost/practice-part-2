@@ -1,0 +1,1 @@
+kaya <- function(x) sum(x)
